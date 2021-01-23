@@ -636,3 +636,45 @@ footer {
         page-break-after: avoid;
     }
 }
+
+/* Social Media */
+.socialMediaLinks {
+    margin: 10px 0 10px 0;
+}
+.socialMediaLinks a {
+    font-size: 26px;
+    margin: 0 10px 0 0;
+    color: #000000;
+    text-decoration: none;
+    border-bottom: none;
+}
+.socialMediaLinks a.fa-twitter {
+    color: #00aced;
+}
+.socialMediaLinks a.fa-youtube {
+    color: #d34836;
+}
+
+/* Code Block */
+pre {
+    font-family: Source Code Pro,monospace;
+    background-color: #f9f9f9;
+    border: 1px solid #d3d3d3;
+    font-size: .85rem;
+    color: #6c6c6c;
+    padding: 15px;
+    margin: 10px 0 0;
+}
+
+/* Ribbon */
+.ribbon {
+    background: #0385b0;
+    text-align: center;
+}
+.ribbon p {
+  color: #eee;
+  font-size: 18px;
+}
+.ribbon a {
+  color: #d6b707;
+}
