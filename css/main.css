@@ -666,15 +666,3 @@ pre {
     margin: 10px 0 0;
 }
 
-/* Ribbon */
-.ribbon {
-    background: #0385b0;
-    text-align: center;
-}
-.ribbon p {
-  color: #eee;
-  font-size: 18px;
-}
-.ribbon a {
-  color: #d6b707;
-}
